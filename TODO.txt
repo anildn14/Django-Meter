@@ -1,0 +1,8 @@
+https://stackoverflow.com/questions/6540032/sorting-related-items-in-a-django-template
+
+https://medium.com/backticks-tildes/lets-build-an-api-with-django-rest-framework-32fcf40231e5
+REST- https://www.youtube.com/watch?v=2d_F9jwo-9s
+DJANGO+REST- https://www.youtube.com/watch?v=qgGIqRFvFFk&list=PL6gx4Cwl9DGBlmzzFcLgDhKTTfNLfX1IK
+
+Nested API Output-https://www.django-rest-framework.org/api-guide/relations/
+https://stackoverflow.com/questions/54984622/django-rest-framework-for-nested-serializer-for-post-method-json-format-output
